@@ -323,7 +323,7 @@ export default function Portfolio() {
               <div className="absolute -inset-1 bg-linear-to-r from-blue-600 to-purple-600 rounded-2xl blur opacity-30 group-hover:opacity-60 transition duration-1000 group-hover:duration-200"></div>
               <div className="relative aspect-square rounded-2xl bg-slate-800 border border-slate-700 overflow-hidden flex items-center justify-center">
                 <img
-                  src="/public/profile.jpg"
+                  src="https://ibb.co/PGKtvqKJ"
                   alt="Profile"
                   className="w-full h-full object-cover opacity-80 hover:scale-105 transition-transform duration-500"
                 />
